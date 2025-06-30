@@ -1,9 +1,10 @@
 # QR Code Generator - Dockerized Application
-
+``` bash
 ** Student: ** Jaydrava
 ** Course: ** IS601
 ** Assignment: ** Module 7 - Dockerizing the QR Code Generator Application
 ** Date: ** June, 30 2025
+```
 
 ## 🔗 Submission Links
     ** GitHub Repository: ** https://github.com/jaydrava/qr-code-generator
